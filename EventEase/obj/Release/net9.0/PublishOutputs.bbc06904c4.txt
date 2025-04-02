@@ -1,0 +1,7 @@
+C:\Users\enhle\OneDrive\Desktop\GitHub\part-1-poe-Mokholo-Enhle-Imbali\EventEase\obj\Release\net9.0\PubTmp\Out\EventEase.exe
+C:\Users\enhle\OneDrive\Desktop\GitHub\part-1-poe-Mokholo-Enhle-Imbali\EventEase\obj\Release\net9.0\PubTmp\Out\appsettings.Development.json
+C:\Users\enhle\OneDrive\Desktop\GitHub\part-1-poe-Mokholo-Enhle-Imbali\EventEase\obj\Release\net9.0\PubTmp\Out\appsettings.json
+C:\Users\enhle\OneDrive\Desktop\GitHub\part-1-poe-Mokholo-Enhle-Imbali\EventEase\obj\Release\net9.0\PubTmp\Out\EventEase.dll
+C:\Users\enhle\OneDrive\Desktop\GitHub\part-1-poe-Mokholo-Enhle-Imbali\EventEase\obj\Release\net9.0\PubTmp\Out\EventEase.deps.json
+C:\Users\enhle\OneDrive\Desktop\GitHub\part-1-poe-Mokholo-Enhle-Imbali\EventEase\obj\Release\net9.0\PubTmp\Out\EventEase.runtimeconfig.json
+C:\Users\enhle\OneDrive\Desktop\GitHub\part-1-poe-Mokholo-Enhle-Imbali\EventEase\obj\Release\net9.0\PubTmp\Out\EventEase.pdb

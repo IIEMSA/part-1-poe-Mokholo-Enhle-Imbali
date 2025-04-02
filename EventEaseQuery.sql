@@ -1,0 +1,45 @@
+-- DATABASE CREATION
+USE master
+IF EXISTS (SELECT * FROM sys.databases WHERE name='EventEaseDB')
+DROP DATABASE EventEaseDB
+CREATE DATABASE EventEaseDB
+
+USE EventEaseDB;
+
+-- Table Creation
+
+CREATE TABLE Venue(
+venueID INT IDENTITY(1,1) PRIMARY KEY NOT NULL,
+venueName VARCHAR(250) NOT NULL,
+location VARCHAR(250) NOT NULL,
+capacity VARCHAR(250) NOT NULL,
+imageurl VARCHAR(250) NOT NULL
+);
+
+
+
+CREATE TABLE Events(
+eventID INT IDENTITY(1,1) PRIMARY KEY NOT NULL,
+eventName VARCHAR(250) NOT NULL,
+eventDate VARCHAR(250) NOT NULL,
+description VARCHAR(500) NOT NULL,
+venueID INT NOT NULL,
+);
+
+ALTER TABLE Events
+ADD CONSTRAINT FK_venueID FOREIGN KEY (venueID) REFERENCES Venue(venueID);
+
+
+CREATE TABLE Bookings
+(
+bookingid INT IDENTITY(1,1) PRIMARY KEY NOT NULL,
+eventid INT,
+venueid INT, 
+bookingDate VARCHAR(250)
+);
+
+ALTER TABLE Bookings
+ADD CONSTRAINT FK_venueID_Bookings FOREIGN KEY (venueID) REFERENCES Venue(venueID);
+
+ALTER TABLE Bookings
+ADD CONSTRAINT FK_eventsID FOREIGN KEY (eventID) REFERENCES Events(eventID);
