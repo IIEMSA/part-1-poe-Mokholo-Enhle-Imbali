@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\enhle\\OneDrive\\Desktop\\GitHub\\part-1-poe-Mokholo-Enhle-Imbali\\EventEase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98C75048-FA8A-4918-AB7C-177AE521B6A7}|EventEase.csproj|c:\\users\\enhle\\onedrive\\desktop\\github\\part-1-poe-mokholo-enhle-imbali\\eventease\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98C75048-FA8A-4918-AB7C-177AE521B6A7}|EventEase.csproj|solutionrelative:controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98C75048-FA8A-4918-AB7C-177AE521B6A7}|EventEase.csproj|c:\\users\\enhle\\onedrive\\desktop\\github\\part-1-poe-mokholo-enhle-imbali\\eventease\\views\\venue\\createvenue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{98C75048-FA8A-4918-AB7C-177AE521B6A7}|EventEase.csproj|solutionrelative:views\\venue\\createvenue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98C75048-FA8A-4918-AB7C-177AE521B6A7}|EventEase.csproj|c:\\users\\enhle\\onedrive\\desktop\\github\\part-1-poe-mokholo-enhle-imbali\\eventease\\views\\bookings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{98C75048-FA8A-4918-AB7C-177AE521B6A7}|EventEase.csproj|solutionrelative:views\\bookings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98C75048-FA8A-4918-AB7C-177AE521B6A7}|EventEase.csproj|c:\\users\\enhle\\onedrive\\desktop\\github\\part-1-poe-mokholo-enhle-imbali\\eventease\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{98C75048-FA8A-4918-AB7C-177AE521B6A7}|EventEase.csproj|solutionrelative:views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98C75048-FA8A-4918-AB7C-177AE521B6A7}|EventEase.csproj|c:\\users\\enhle\\onedrive\\desktop\\github\\part-1-poe-mokholo-enhle-imbali\\eventease\\views\\venue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{98C75048-FA8A-4918-AB7C-177AE521B6A7}|EventEase.csproj|solutionrelative:views\\venue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{98C75048-FA8A-4918-AB7C-177AE521B6A7}|EventEase.csproj|c:\\users\\enhle\\onedrive\\desktop\\github\\part-1-poe-mokholo-enhle-imbali\\eventease\\views\\bookings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98C75048-FA8A-4918-AB7C-177AE521B6A7}|EventEase.csproj|solutionrelative:views\\bookings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,72 +13,20 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedWidth": 204,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "VenueController.cs",
-              "DocumentMoniker": "C:\\Users\\enhle\\OneDrive\\Desktop\\GitHub\\part-1-poe-Mokholo-Enhle-Imbali\\EventEase\\Controllers\\VenueController.cs",
-              "RelativeDocumentMoniker": "Controllers\\VenueController.cs",
-              "ToolTip": "C:\\Users\\enhle\\OneDrive\\Desktop\\GitHub\\part-1-poe-Mokholo-Enhle-Imbali\\EventEase\\Controllers\\VenueController.cs",
-              "RelativeToolTip": "Controllers\\VenueController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T07:31:17.129Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateVenue.cshtml",
-              "DocumentMoniker": "C:\\Users\\enhle\\OneDrive\\Desktop\\GitHub\\part-1-poe-Mokholo-Enhle-Imbali\\EventEase\\Views\\Venue\\CreateVenue.cshtml",
-              "RelativeDocumentMoniker": "Views\\Venue\\CreateVenue.cshtml",
-              "ToolTip": "C:\\Users\\enhle\\OneDrive\\Desktop\\GitHub\\part-1-poe-Mokholo-Enhle-Imbali\\EventEase\\Views\\Venue\\CreateVenue.cshtml",
-              "RelativeToolTip": "Views\\Venue\\CreateVenue.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\enhle\\OneDrive\\Desktop\\GitHub\\part-1-poe-Mokholo-Enhle-Imbali\\EventEase\\Views\\Bookings\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bookings\\Create.cshtml",
+              "ToolTip": "C:\\Users\\enhle\\OneDrive\\Desktop\\GitHub\\part-1-poe-Mokholo-Enhle-Imbali\\EventEase\\Views\\Bookings\\Create.cshtml",
+              "RelativeToolTip": "Views\\Bookings\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T07:30:44.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\enhle\\OneDrive\\Desktop\\GitHub\\part-1-poe-Mokholo-Enhle-Imbali\\EventEase\\Views\\Bookings\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Bookings\\Index.cshtml",
-              "ToolTip": "C:\\Users\\enhle\\OneDrive\\Desktop\\GitHub\\part-1-poe-Mokholo-Enhle-Imbali\\EventEase\\Views\\Bookings\\Index.cshtml",
-              "RelativeToolTip": "Views\\Bookings\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T07:30:31.304Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\enhle\\OneDrive\\Desktop\\GitHub\\part-1-poe-Mokholo-Enhle-Imbali\\EventEase\\Views\\Events\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Events\\Index.cshtml",
-              "ToolTip": "C:\\Users\\enhle\\OneDrive\\Desktop\\GitHub\\part-1-poe-Mokholo-Enhle-Imbali\\EventEase\\Views\\Events\\Index.cshtml",
-              "RelativeToolTip": "Views\\Events\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T07:30:20.865Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\enhle\\OneDrive\\Desktop\\GitHub\\part-1-poe-Mokholo-Enhle-Imbali\\EventEase\\Views\\Venue\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Venue\\Index.cshtml",
-              "ToolTip": "C:\\Users\\enhle\\OneDrive\\Desktop\\GitHub\\part-1-poe-Mokholo-Enhle-Imbali\\EventEase\\Views\\Venue\\Index.cshtml",
-              "RelativeToolTip": "Views\\Venue\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T07:29:17.402Z",
+              "WhenOpened": "2025-04-05T15:34:52.949Z",
               "EditorCaption": ""
             }
           ]

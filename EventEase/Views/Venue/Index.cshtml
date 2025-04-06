@@ -4,6 +4,15 @@
     ViewData["Title"] = "Available Venues";
 }
 
+
+<style>
+    body {
+        background: linear-gradient(to bottom, #8ee307, #00cffd);
+        height: 100vh;
+        margin: 0;
+    }
+</style>
+
 <h1>Index</h1>
 
 
@@ -40,16 +49,18 @@
             <td>
                 @Html.DisplayFor(modelItem => item.imageurl)
             </td>
-           @*  <td>
-                <a asp-action="Edit" asp-route-id="@item.venueId">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.venueId">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.venueId">Delete</a>
-            </td> *@
+            <td>
+                <a asp-action="EditVenue" asp-route-id="@item.venueId">Edit</a> |
+                <a asp-action="VenueDetails" asp-route-id="@item.venueId">Details</a> |
+                <a asp-action="DeleteVenue" asp-route-id="@item.venueId">Delete</a>
+            </td>
         </tr>
 }
     </tbody>
 </table>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="CreateVenue" style="background-color: rgb(65, 132, 225); color: rgb(0, 229, 255);">Create New</a>
+    <br />
+    <a href="/Home/Index" class="btn" style="background-color: rgb(65, 132, 225); color: rgb(0, 229, 255);"> Back To Home</a>
 </p>

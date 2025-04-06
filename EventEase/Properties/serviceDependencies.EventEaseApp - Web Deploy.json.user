@@ -1,0 +1,25 @@
+{
+  "dependencies": {},
+  "parameters": {
+    "EventEaseApp.subscriptionId": {
+      "Name": "EventEaseApp.subscriptionId",
+      "Type": "subscription",
+      "Value": "d1788afb-2254-4f5f-8826-94750f6da544"
+    },
+    "EventEaseApp.resourceGroupLocation": {
+      "Name": "EventEaseApp.resourceGroupLocation",
+      "Type": null,
+      "Value": "southafricanorth"
+    },
+    "EventEaseApp.resourceName": {
+      "Name": "EventEaseApp.resourceName",
+      "Type": null,
+      "Value": "EventEaseApp"
+    },
+    "EventEaseApp.resourceGroupName": {
+      "Name": "EventEaseApp.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "AZ-JHB-RSG-IIEMSA-ST10443720-TER"
+    }
+  }
+}
